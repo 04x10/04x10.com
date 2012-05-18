@@ -1,10 +1,11 @@
 04x10.com
 =========
 
-The site should have:
+Wishlist for the site:
 
 - Blog (it may or may not be here)
-- Upcomming events
-- How to get to the place
-- Some about section (may be the home)
-- Recorded videos, suscribe
+- Upcoming events
+- How to get to the place (Google Maps)
+- About section
+- Recorded videos, podcast subscribe
+- List of local events
