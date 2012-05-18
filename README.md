@@ -1,4 +1,10 @@
 04x10.com
 =========
 
-repo para el site de 04x10
+The site should have:
+
+- Blog (it may or may not be here)
+- Upcomming events
+- How to get to the place
+- Some about section (may be the home)
+- Recorded videos, suscribe
