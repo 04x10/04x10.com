@@ -1,9 +1,17 @@
-Title: Kirby Demo
+﻿Title: 04x10
+
 ----
-Author: Bastian Allgeier
+
+Author: la marabunta diseñosa
+
 ----
-Description: Kirby is awesome
+
+Description: 
+
 ----
-Keywords: kirby, cms, kirbycms, php, filesystem
+
+Keywords: ux, ui, diseño, 04x10, 4x10
+
 ----
-Copyright: © 2009-(date: Year) (link: http://bastianallgeier.com text: Bastian Allgeier)
+
+Copyright: © (date: Year) 04x10
