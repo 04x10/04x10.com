@@ -1,3 +1,5 @@
+@import url(http://fonts.googleapis.com/css?family=Buenard:700,400);
+
 * {
   margin: 0px;
   padding: 0px;
@@ -8,8 +10,8 @@ html {
   -webkit-font-smoothing: antialiased;
 }
 body {
-  font-family: Helvetica, Arial, sans-serif;
-  font-size: 16px;
+  font-family: 'Buenard', serif;
+  font-size: 18px;
   line-height: 26px;
   background: #fff;
   color: #777;
@@ -41,7 +43,6 @@ h1 {
 }
 h2 {
   font-size: 28px;
-  font-weight: normal;
   color: red;
   margin-bottom: 21px;
 }
@@ -81,7 +82,7 @@ nav.submenu a {
   font-weight: normal;
 }
 section.content {
-  margin-top: 40px;
+  margin-top: 20px;
 }
 footer {
   padding-top: 20px;
@@ -95,4 +96,10 @@ footer a {
 }
 footer a:hover {
   color: #222;
+}
+.content ul {
+  margin: 1em;
+}
+.content ul li {
+  margin-bottom: 0.5em;
 }
