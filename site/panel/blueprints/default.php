@@ -12,4 +12,5 @@ fields:
   text: 
     label: Text
     type:  textarea
+    buttons: true
     size:  large
