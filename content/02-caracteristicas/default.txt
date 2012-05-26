@@ -1,8 +1,0 @@
-﻿Title: Características
-
-----
-
-Text: - La organización es abierta y participativa. Lee un poco más abajo para enterarte de cómo puedes ayudar.
-- No hay sede definida. Las primeras ediciones probablemente serán en Madrid, porque es de donde ha surgido la iniciativa, pero la idea es que cualquiera pueda crear la sede para la siguiente, o conectarse a una edición en remoto, ya sea para dar una ponencia o como audiencia.
-- Cada edición constará de tres charlas seleccionadas y una bola extra: cualquier asistente (presencial o remoto) puede llegar con una ponencia bajo el brazo y añadirla al programa. En caso de que haya varias, se elegirá una en el momento por votación.
-- El formato de las charlas es Ignite Talk [Ignite Talk](http://en.wikipedia.org/wiki/Ignite_(event)) (parecido a [Pecha Kucha](http://es.wikipedia.org/wiki/Pecha_Kucha): 20 slides, que pasan automáticamente cada 15 segundos. A continuación, habrá 10 minutos de preguntas/debate.

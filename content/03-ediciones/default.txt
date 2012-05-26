@@ -1,7 +1,0 @@
-﻿Title: Ediciones
-
-----
-
-Text: ## Primera edición
-
-La I edición está patrocinada por [Designit](http://designit.com/) y tendrá lugar el 4 de junio en las oficinas de [Tuenti](http://tuenti.com) en Madrid.

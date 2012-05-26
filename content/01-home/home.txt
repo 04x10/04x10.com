@@ -1,13 +1,39 @@
-﻿Title: ¿Qué es esto?
+﻿Title: 04x10
 
 ----
 
-Text: 04x10 es un evento sobre diseño que se celebra el primer lunes de cada mes.
-
-## Patrocinio
-
-buscamos un patrocinador para cada edición. Si estás interesado, ponte en contacto: (twitter: @04x10)
+Text: **04x10 es un evento sobre diseño que se celebra el primer lunes de cada mes.**
 
 ## Primera edición
 
-La I edición está patrocinada por [Designit](http://designit.com/) y tendrá lugar el 4 de junio en las oficinas de [Tuenti](http://tuenti.com) en Madrid.
+La I edición está patrocinada por [Designit](http://designit.com) y tendrá lugar el **4 de junio a las 19:30** en las oficinas de [Tuenti](http://www.tuenti.com/) en Madrid.
+
+* **[Kike Alonso](http://fffck.com/)**: Más difícil que convencer a un cliente, convencer a tu jefe.
+* **[Marcelino Llano](http://www.marcelinollano.com/)**: Wireframes. Wat?
+* **[Anabel Vazquez](https://twitter.com/#!/anabelvazquez)**: La importancia de copys y microcopys
+
+(Si quieres proponer ponencias para la próxima edición, mira el [Google Doc de ponencias][ponencias]).
+
+
+## Características
+
+* La organización es abierta y participativa. Lee un poco más abajo para enterarte de cómo puedes ayudar.
+* No hay sede definida. Las primeras ediciones probablemente serán en Madrid, porque es de donde ha surgido la iniciativa, pero la idea es que cualquiera pueda crear la sede para la siguiente, o conectarse a una edición en remoto, ya sea para dar una ponencia o como audiencia.
+* Cada edición constará de tres charlas seleccionadas y una _bola extra_: cualquier asistente (presencial o remoto) puede llegar con una ponencia bajo el brazo y añadirla al programa. En caso de que haya varias, se elegirá una en el momento por votación.
+* El formato de las charlas es el de [Ignite talk](http://en.wikipedia.org/wiki/Ignite_(event)): 20 slides, mostrando cada una durante 15 segundos. A continuación, habrá 10 minutos de preguntas/debate.
+* Patrocinio: buscamos un patrocinador para cada edición. Si estás interesado, ponte en contacto: [@04x10](https://twitter.com/#!/04x10)
+
+(Como en todo buen grupo democrático, estas reglas están para modificarse si se considera necesario :)
+
+
+## Enlaces de interés
+
+Para proponer o pedir una ponencia, apúntala en este [Google doc][ponencias].
+
+Estamos discutiendo la dinámica en este [Google group](https://groups.google.com/forum/?fromgroups#!forum/4x10).
+
+Twitter: (twitter: @04x10)
+
+Reparto de tareas de la primera edición: [Google doc](https://docs.google.com/spreadsheet/ccc?key=0AmsN6glr7JgKdHlXSDY1b3RPU0hFRmd5aDNZWFVQOWc)
+
+[ponencias]: https://docs.google.com/spreadsheet/ccc?key=0Al_8tqMoBi-ldHJjQmkxZmdFOF8yNEhyeWN0Q3lHN3c
