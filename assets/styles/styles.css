@@ -1,4 +1,4 @@
-@import url(http://fonts.googleapis.com/css?family=Buenard:700,400);
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:300,700);
 
 * {
   margin: 0px;
@@ -10,7 +10,7 @@ html {
   -webkit-font-smoothing: antialiased;
 }
 body {
-  font-family: 'Buenard', serif;
+  font-family: 'Open Sans', sans-serif;
   font-size: 18px;
   line-height: 26px;
   background: #fff;
@@ -50,14 +50,12 @@ h2 {
   margin-bottom: 21px;
 }
 h3 {
-  font-weight: normal;
   font-size: 20px;
   color: #222;
   margin-bottom: 21px;
 }
 h4 {
   color: #2e449c;
-  font-weight: normal;
 }
 p {
   margin-bottom: 20px;
