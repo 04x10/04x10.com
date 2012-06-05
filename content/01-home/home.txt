@@ -6,11 +6,13 @@ Text: **04x10 es un evento sobre diseño que se celebra el primer lunes de cada 
 
 ## Primera edición
 
-La I edición está patrocinada por [Designit](http://designit.com) y tendrá lugar el **4 de junio a las 19:30** en las oficinas de [Tuenti](http://www.tuenti.com/) en Madrid.
+La I edición estuvo patrocinada por [Designit](http://designit.com) y tuvo lugar el **4 de junio a las 19:30** en las oficinas de [Tuenti](http://www.tuenti.com/) en Madrid.
 
 * **[Kike Alonso](http://fffck.com/)**: Más difícil que convencer a un cliente, convencer a tu jefe.
 * **[Marcelino Llano](http://www.marcelinollano.com/)**: Wireframes. Wat?
 * **[Anabel Vazquez](https://twitter.com/#!/anabelvazquez)**: La importancia de copys y microcopys
+
+Tenemos un [archivo del streaming de la primera edición](http://www.justin.tv/4x10), y en breve colgaremos los vídeos en Vimeo.
 
 (Si quieres proponer ponencias para la próxima edición, mira el [Google Doc de ponencias][ponencias]).
 
