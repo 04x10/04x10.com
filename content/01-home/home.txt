@@ -12,7 +12,7 @@ La I edición estuvo patrocinada por [Designit](http://designit.com) y tuvo luga
 * **[Marcelino Llano](http://www.marcelinollano.com/)**: Wireframes. Wat?
 * **[Anabel Vazquez](https://twitter.com/#!/anabelvazquez)**: La importancia de copys y microcopys
 
-Tenemos un [archivo del streaming de la primera edición](http://www.justin.tv/4x10), y en breve colgaremos los vídeos en [Vimeo](http://vimeo.com/04x10).
+Tenemos un [archivo del streaming de la primera edición](http://www.justin.tv/4x10), y en breve colgaremos los [vídeos en Vimeo](http://vimeo.com/04x10) y las [presentaciones en SpeakerDeck](https://speakerdeck.com/u/04x10).
 
 (Si quieres proponer ponencias para la próxima edición, mira el [Google Doc de ponencias][ponencias]).
 
