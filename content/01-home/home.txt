@@ -14,7 +14,7 @@ La I edición estuvo patrocinada por [Designit](http://designit.com) y tuvo luga
 
 Tenemos un [archivo del streaming de la primera edición](http://www.justin.tv/4x10), y en breve colgaremos los [vídeos en Vimeo](http://vimeo.com/04x10) y las [presentaciones en SpeakerDeck](https://speakerdeck.com/u/04x10).
 
-(Si quieres proponer ponencias para la próxima edición, mira el [Google Doc de ponencias][ponencias]).
+Si quieres proponer ponencias para la próxima edición, mira el Google Doc de ponencias en la página de [Enlaces de interés](/enlaces).
 
 
 ## Características
@@ -23,6 +23,6 @@ Tenemos un [archivo del streaming de la primera edición](http://www.justin.tv/4
 * No hay sede definida. Las primeras ediciones probablemente serán en Madrid, porque es de donde ha surgido la iniciativa, pero la idea es que cualquiera pueda crear la sede para la siguiente, o conectarse a una edición en remoto, ya sea para dar una ponencia o como audiencia.
 * Cada edición constará de tres charlas seleccionadas y una _bola extra_: cualquier asistente (presencial o remoto) puede llegar con una ponencia bajo el brazo y añadirla al programa. En caso de que haya varias, se elegirá una en el momento por votación.
 * El formato de las charlas es el de [Ignite talk](http://en.wikipedia.org/wiki/Ignite_(event)): 20 slides, mostrando cada una durante 15 segundos. A continuación, habrá 10 minutos de preguntas/debate.
-* Patrocinio: buscamos un patrocinador para cada edición. Si estás interesado, ponte en contacto: [@04x10](https://twitter.com/#!/04x10)
+* Patrocinio: buscamos un patrocinador para cada edición. Si estás interesado, ponte en contacto con nosotros vía Twitter: (twitter: 04x10)
 
 (Como en todo buen grupo democrático, estas reglas están para modificarse si se considera necesario :)
