@@ -2,11 +2,21 @@
 
 ----
 
-Text: ## Primera edición
+Text: ## Segunda edición
+
+La I edición está patrocinada por [Fjord](http://www.fjordnet.com) y tendrá lugar el 2 de julio en las oficinas de [DesignIt](http://designit.com) en Madrid.
+
+-[Pide tu invitación aquí](http://04x10.tol.do)-
+
+* **[Felipe Romero](https://twitter.com/flpromero):** La investigación más alla del pinpanpinpan. De MadMen a hoy, una aproximación histórica.
+* **[Cristina Gómez]():** La combinación perfecta de eficacia y felicidad.
+* **[Gemma Muñoz](http://www.sorprendida.es):** Se puede medir la Experiencia de usuario.
+
+
+## Primera edición
 
 La I edición está patrocinada por [Designit](http://designit.com/) y tendrá lugar el 4 de junio en las oficinas de [Tuenti](http://tuenti.com) en Madrid.
 
--[Pide tu invitación aquí](http://04x10.tol.do/1-edicion-04x10-junio)-
 
 * **[Kike Alonso](http://fffck.com/):** Más difícil que convencer a un cliente, convencer a tu jefe.
 * **[Marcelino Llano](http://www.marcelinollano.com/):** Wireframes. Wat?.
