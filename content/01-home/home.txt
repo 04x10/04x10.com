@@ -1,12 +1,38 @@
-﻿Title: 04x10
+﻿Title: ¿Qué es esto?
 
 ----
 
 Text: **04x10 es un evento sobre diseño que se celebra el primer lunes de cada mes.**
 
+## Quinta Edición - Noviembre 2012
+
+La V edición estará patrocinada por [the55](http://the55.es/) y tendrá lugar el **5 de noviembre a las 20:00** en las oficinas de [Redbility, en c/ Conde de Peñalver 38, 5º](http://www.redbility.com/):
+
+* **[César García Sáez](http://medialab-prado.es/person/cesar_garcia_saez_)**, MediaLab: “ Hardware/sensores”
+* **[Maria Jesus Martin Muñoz](http://www.linkedin.com/in/chusprofile)**, Telefónica: “Las presentaciones vistas por el cliente”
+* **[Borja Delgado](https://twitter.com/borjadelgado)**, Hanzo: “Employees first al estilo vallecano: Cómo montar un estudio y no morir en el intento”
+
+Las cervezas las pone [Brabante](http://www.brabantecervezas.com/).
+
+
+## Cuarta Edición - Octubre 2012
+
+La IV edición estuvo patrocinada por [The Cocktail](http://the-cocktail.com) y tuvo lugar el **1 de octubre a las 20:00** en el Aula Magna del [Istituto Europeo di Design en la C/ Larra en Madrid](http://www.ied.es/madrid/contacto):
+
+* **[Francisco García](https://twitter.com/nosoy1mas)**, The Cocktail: “Diseño para multidispositivo. Soluciones web, desde el movil a la Smart TV”
+* **[Dorothy Silva](http://www.linkedin.com/in/dorothysilva)**, Designit: “Etnografía y diseño”
+* **[Luis Villa](https://twitter.com/maguisso)**, Fjord: “The secret of a presentation that scares”
+
+Las cervezas las puso [Brabante](http://www.brabantecervezas.com/).
+
 ## Tercera edición
 
-La III edición tendrá lugar el **3 de septiembre a las 20:00** en algún sitio aún por determinar :)
+La III edición estuvo patrocinada por [Secuoyas](http://www.secuoyas.com/) y tuvo lugar el **3 de septiembre a las 20:00** en las oficinas de [SocialNoise](http://web.socialnoise.com/) en Madrid:
+
+* **[Karina Ibarra](http://twitter.com/karinai)** Diseñar aplicaciones para niños
+* **[Shen-Hau Cheng](http://shenhau.com/)** (en inglés) Definiendo el scope de proyectos con fichas de poker
+* **[Javi Santana](http://javisantana.com/)** El programador como diseñador de producto
+* **Extra Ball: [Asier Martínez](https://twitter.com/asiermartinez)** Failure it hurts... but makes you stronger
 
 
 ## Segunda edición
@@ -17,7 +43,9 @@ La II edición estuvo patrocinada por [Fjord](http://www.fjordnet.com) y tuvo lu
 * **[Cristina Gómez](http://www.linkedin.com/profile/view?id=9425731)**
 * **[Ale Muñoz](http://sofanaranja.com)**
 
-Mientras subimos los vídeos pata negra, puedes ver un [archivo del streaming en Justin TV](http://justin.tv/4x10).
+(vimeo: http://vimeo.com/45524114)
+(vimeo: http://vimeo.com/45524113)
+(vimeo: http://vimeo.com/45524112)
 
 Las presentaciones de las ponencias [están en nuestro Speakerdeck](http://speakerdeck.com/u/04x10).
 
